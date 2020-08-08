@@ -3,7 +3,11 @@
 I'm Thomas Evano a passionate Front-End developer student from France
 
 - 🔭 I’m currently working on [Sneakers-Collection](https://github.com/Thomasevano/sneakers-collection)
-- 🌱 I’m currently learning ![vue Logo](./assets/vue.svg) and some Back-End JS (![node Logo](./assets/nodejs.svg), ...building API)
+- 🌱 I’m currently learning
+  <a href="">
+  <img src="assets/vue.svg" alt="v ue badge" style="vertical-align:top margin:6px 4px">
+  </a>
+  and some Back-End JS (![node Logo](./assets/nodejs.svg), ...building API)
 - 👯 I’m looking to collaborate on my first open source projects
 - 📫 How to reach me:
   - ![email Logo](./assets/email_me.svg): thomas-evano@hotmail.fr
