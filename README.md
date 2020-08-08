@@ -18,7 +18,7 @@ I'm Thomas Evano a passionate Front-End developer student from France :fr:
 
 #### Languages & Frameworks
 
-![html logo](./assets/html.svg) ![css logo](./assets/css.svg) ![sass logo](./assets/sass.svg) ![js logo](./assets/js.svg)
+![html logo](./assets/html.svg) ![css logo](https://raw.githubusercontent.com/Thomasevano/Thomasevano/master/assets/css.svg) ![sass logo](./assets/sass.svg) ![js logo](./assets/js.svg)
 ![react logo](./assets/react.svg) ![vue logo](./assets/vue.svg) ![nodejs logo](./assets/nodejs.svg)
 
 ### Github stats
