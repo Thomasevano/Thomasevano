@@ -1,14 +1,14 @@
 ### Hi there, I'm [Thomas](https://thomasevano.fr) 👋
 
-I'm Thomas Evano a passionate french Front-End developer, Student at HETIC in Paris
+I'm Thomas Evano a passionate Front-End developer student from France
 
 - 🔭 I’m currently working on [Sneakers-Collection](https://github.com/Thomasevano/sneakers-collection)
-- 🌱 I’m currently learning ![vue Logo](/assets/vue.svg) and some Back-End JS (![node Logo](/assets/nodejs.svg), ...building API)
+- 🌱 I’m currently learning ![vue Logo](./assets/vue.svg) and some Back-End JS (![node Logo](./assets/nodejs.svg), ...building API)
 - 👯 I’m looking to collaborate on my first open source projects
 - 📫 How to reach me:
-  - ![email Logo](/assets/email_me.svg): thomas-evano@hotmail.fr
-  - [![Linkedin logo](/assets/linkedin.svg)](https://www.linkedin.com/in/thomasevano/)
-  - [![Twitter logo](/assets/twitter.svg)](https://www.linkedin.com/in/thomasevano/)
+  - ![email Logo](./assets/email_me.svg): thomas-evano@hotmail.fr
+  - [![Linkedin logo](./assets/linkedin.svg)](https://www.linkedin.com/in/thomasevano/)
+  - [![Twitter logo](./assets/twitter.svg)](https://www.linkedin.com/in/thomasevano/)
 
 <!--
 **Thomasevano/Thomasevano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
