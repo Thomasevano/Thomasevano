@@ -13,13 +13,13 @@ I'm Thomas Evano a passionate Front-End developer student from France :fr:
 
 #### Tools
 
-![mac logo](assets/mac.svg) ![phpstorm logo](./assets/phpstorm.svg) ![vscode logo](./assets/vscode.svg)
-![npm logo](./assets/npm.svg)
+![mac logo](https://raw.githubusercontent.com/Thomasevano/Thomasevano/master/assets/mac.svg) ![phpstorm logo](https://raw.githubusercontent.com/Thomasevano/Thomasevano/master/assets/.svg) ![vscode logo](https://raw.githubusercontent.com/Thomasevano/Thomasevano/master/assets/vscode.svg)
+![npm logo](https://raw.githubusercontent.com/Thomasevano/Thomasevano/master/assets/npm.svg)
 
 #### Languages & Frameworks
 
-![html logo](./assets/html.svg) ![css logo](https://raw.githubusercontent.com/Thomasevano/Thomasevano/master/assets/css.svg) ![sass logo](./assets/sass.svg) ![js logo](./assets/js.svg)
-![react logo](./assets/react.svg) ![vue logo](./assets/vue.svg) ![nodejs logo](./assets/nodejs.svg)
+![html logo](https://raw.githubusercontent.com/Thomasevano/Thomasevano/master/assets/html.svg) ![css logo](https://raw.githubusercontent.com/Thomasevano/Thomasevano/master/assets/css.svg) ![sass logo](https://raw.githubusercontent.com/Thomasevano/Thomasevano/master/assets/sass.svg) ![js logo](https://raw.githubusercontent.com/Thomasevano/Thomasevano/master/assets/js.svg)
+![react logo](https://raw.githubusercontent.com/Thomasevano/Thomasevano/master/assets/react.svg) ![vue logo](https://raw.githubusercontent.com/Thomasevano/Thomasevano/master/assets/vue.svg) ![nodejs logo](https://raw.githubusercontent.com/Thomasevano/Thomasevano/master/assets/nodejs.svg)
 
 ### Github stats
 
