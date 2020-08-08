@@ -5,9 +5,9 @@ I'm Thomas Evano a passionate Front-End developer student from France :fr:
 - 🔭 I’m currently working on [Sneakers-Collection](https://github.com/Thomasevano/sneakers-collection)
 - 🌱 I’m currently learning Vue.js and some Back-End JS (NodeJS, building API...)
 - 👯 I’m looking to collaborate on my first open source projects
-- 📫 How to reach me: [![email Logo](./assets/email_me.svg)](mailto:thomas-evano@hotmail.fr)
-  [![Linkedin logo](./assets/linkedin.svg)](https://www.linkedin.com/in/thomasevano/)
-  [![Twitter logo](./assets/twitter.svg)](https://www.linkedin.com/in/thomasevano/)
+- 📫 How to reach me: [![email Logo](https://raw.githubusercontent.com/Thomasevano/Thomasevano/master/assets/email_me.svg)](mailto:thomas-evano@hotmail.fr)
+  [![Linkedin logo](https://raw.githubusercontent.com/Thomasevano/Thomasevano/master/assets/linkedin.svg)](https://www.linkedin.com/in/thomasevano/)
+  [![Twitter logo](https://raw.githubusercontent.com/Thomasevano/Thomasevano/master/assets/twitter.svg)](https://www.linkedin.com/in/thomasevano/)
 
 ### My Stack 👨🏻‍💻
 
