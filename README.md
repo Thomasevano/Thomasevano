@@ -13,7 +13,7 @@ I'm Thomas Evano a passionate Front-End developer student from France :fr:
 
 #### Tools
 
-![mac logo](./assets/mac.svg) ![phpstorm logo](./assets/phpstorm.svg) ![vscode logo](./assets/vscode.svg)
+![mac logo](assets/mac.svg) ![phpstorm logo](./assets/phpstorm.svg) ![vscode logo](./assets/vscode.svg)
 ![npm logo](./assets/npm.svg)
 
 #### Languages & Frameworks
