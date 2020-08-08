@@ -23,9 +23,7 @@ I'm Thomas Evano a passionate Front-End developer student from France :fr:
 
 ### Github stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Thomasevano&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomasevano&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Thomasevano&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomasevano&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
   <!--
   **Thomasevano/Thomasevano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
