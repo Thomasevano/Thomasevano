@@ -1,5 +1,7 @@
 ## Hi there, I'm [Thomas](https://thomasevano.fr) 👋
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/thomasevano/thomasevano/blob/master/devcard.svg" width="400" alt="Thomas Evano Dev Card"/></a>
+
 I'm Thomas Evano a passionate Front-End developer student from France :fr:
 
 - 🔭 I’m currently working on [Sneakers-Collection](https://github.com/Thomasevano/sneakers-collection)
