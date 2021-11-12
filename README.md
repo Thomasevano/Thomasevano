@@ -1,7 +1,5 @@
 ## Hi there, I'm [Thomas](https://thomasevano.fr) 👋
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/thomasevano/thomasevano/blob/master/devcard.svg" width="400" alt="Thomas Evano Dev Card"/></a>
-
 I'm Thomas Evano a passionate Front-End developer student from France :fr:
 
 - 🔭 I’m currently working on [Sneakers-Collection](https://github.com/Thomasevano/sneakers-collection)
@@ -11,6 +9,9 @@ I'm Thomas Evano a passionate Front-End developer student from France :fr:
 - 📫 How to reach me: [![email Logo](https://raw.githubusercontent.com/Thomasevano/Thomasevano/master/assets/email_me.svg)](mailto:thomas-evano@hotmail.fr)
   [![Linkedin logo](https://raw.githubusercontent.com/Thomasevano/Thomasevano/master/assets/linkedin.svg)](https://www.linkedin.com/in/thomasevano/)
   [![Twitter logo](https://raw.githubusercontent.com/Thomasevano/Thomasevano/master/assets/twitter.svg)](https://www.linkedin.com/in/thomasevano/)
+ 
+### Dailydev Card
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/thomasevano/thomasevano/blob/master/devcard.svg" width="400" alt="Thomas Evano Dev Card"/></a>
 
 ### My Stack 👨🏻‍💻
 
