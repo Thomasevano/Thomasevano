@@ -1,12 +1,14 @@
 ## Hi there, I'm [Thomas](https://thomasevano.fr) 👋
 
-I'm Thomas Evano a passionate Front-End developer student from France :fr:
+I'm Thomas Evano a passionate developer student from France :fr:
 
 - 🔭 I’m currently working on [Sneakers-Collection](https://github.com/Thomasevano/sneakers-collection)
-- 🌱 I’m currently learning Vue.js, Typescript, NodeJS, GraphQL, TDD
+- 🌱 I’m currently learning lot of things: TDD, Go, Typescript, Self host my projects, building a secon brain, takinhg smart notes, be more focus and productive
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help to find a good Sneakers API
-- 📫 How to reach me: [![email Logo](https://raw.githubusercontent.com/Thomasevano/Thomasevano/master/assets/email_me.svg)](mailto:thomas-evano@hotmail.fr)
+- 🤔 I’m looking for help: to find a good Sneakers API
+- 💬 Ask me about what i am passionate about, we will talk for hours about anything
+- ⚡ Fun fact: 2 years of PHP i still have more code than 5 years of JS according to Github stats 🤔
+- 📫 How to reach me:
   [![Linkedin logo](https://raw.githubusercontent.com/Thomasevano/Thomasevano/master/assets/linkedin.svg)](https://www.linkedin.com/in/thomasevano/)
   [![Twitter logo](https://raw.githubusercontent.com/Thomasevano/Thomasevano/master/assets/twitter.svg)](https://www.linkedin.com/in/thomasevano/)
  
