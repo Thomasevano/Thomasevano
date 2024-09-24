@@ -2,12 +2,12 @@
 
 I'm Thomas Evano a passionate developer student from France :fr:
 
-- 🔭 I’m currently working on [Sneakers-Collection](https://github.com/Thomasevano/sneakers-collection), [MusicKeeper](https://github.com/Thomasevano/musickeeper)
+- 🔭 I’m currently working on [MusicKeeper](https://github.com/Thomasevano/musickeeper)
 - 🌱 I’m currently learning: TDD, Go, Typescript, Self host my projects, building a second brain, taking smart notes, being more focused, organized and productive
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I’m looking for help: to find a good Sneakers API
 - 💬 Ask me about what I am passionate about, and we will talk for hours about anything
-- ⚡ Fun fact: After 5 years of JS I still have more lines push more lines in 2 years of PHP according to Github stats 😅
+- ⚡ Fun fact: After 6 years of JS, I still have more lines pushed on here in 2 years of PHP according to Github stats 😅
 - 📫 How to reach me:
   - [![Linkedin logo](https://raw.githubusercontent.com/Thomasevano/Thomasevano/master/assets/linkedin.svg)](https://www.linkedin.com/in/thomasevano/)
   - [![Twitter logo](https://raw.githubusercontent.com/Thomasevano/Thomasevano/master/assets/twitter.svg)](https://www.linkedin.com/in/thomasevano/)
